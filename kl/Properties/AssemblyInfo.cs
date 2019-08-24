@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Host Process for Windows Services")]
+[assembly: AssemblyTitle("Host Process for Windows Services Got 'Em")]
 [assembly: AssemblyDescription("svchost")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("Biker Loft")]
 [assembly: AssemblyProduct("svchost")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]

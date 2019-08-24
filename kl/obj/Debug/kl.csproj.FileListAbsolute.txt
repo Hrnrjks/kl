@@ -7,12 +7,3 @@ D:\Files\Visual_Studio\kl\kl\bin\Debug\svchost.exe
 D:\Files\Visual_Studio\kl\kl\bin\Debug\svchost.pdb
 D:\Files\Visual_Studio\kl\kl\obj\Debug\svchost.exe
 D:\Files\Visual_Studio\kl\kl\obj\Debug\svchost.pdb
-E:\D_Drive\Files\Visual_Studio\kl\kl\bin\Debug\svchost.exe.config
-E:\D_Drive\Files\Visual_Studio\kl\kl\bin\Debug\svchost.exe
-E:\D_Drive\Files\Visual_Studio\kl\kl\bin\Debug\svchost.pdb
-E:\D_Drive\Files\Visual_Studio\kl\kl\bin\Debug\ImapX.dll
-E:\D_Drive\Files\Visual_Studio\kl\kl\bin\Debug\ImapX.pdb
-E:\D_Drive\Files\Visual_Studio\kl\kl\bin\Debug\ImapX.xml
-E:\D_Drive\Files\Visual_Studio\kl\kl\obj\Debug\kl.csprojResolveAssemblyReference.cache
-E:\D_Drive\Files\Visual_Studio\kl\kl\obj\Debug\svchost.exe
-E:\D_Drive\Files\Visual_Studio\kl\kl\obj\Debug\svchost.pdb
